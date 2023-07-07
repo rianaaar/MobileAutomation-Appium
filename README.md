@@ -9,7 +9,7 @@ This automation is written in Javascript
 npm install
 ```
 
-run cypress
+run wdio
 ```bash
 npm run wdio
 ```
